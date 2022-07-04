@@ -8,10 +8,10 @@ h1 {
 }
 
 .palegreen {
-    color: palegreen;
+    color: orange;
 }
 
-section {
+.flexible_container {
     display: flex;
     margin-bottom: 150px;
 }
@@ -19,6 +19,7 @@ section {
 .half-width {
     width: 50%;
     padding-left: 2%;
+    box-shadow: yellowgreen;
 }
 
 .half-width img {
@@ -45,4 +46,6 @@ section {
     background-position: right;
 }
 
-.ln
+.Experience {
+    box-shadow: 10px 10px 40px gray;
+}
